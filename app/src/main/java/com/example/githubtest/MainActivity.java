@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //고은찬 업데이트 테스트
+        //김청아 업데이트
 
         //ㅔㅔㅔ
 
