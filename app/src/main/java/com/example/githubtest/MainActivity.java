@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
         //동준 수정.
         //김청아 수정
-        //김병국 수정
+        //김병국 수정ㅁㅁ
     }
 
     @Override
