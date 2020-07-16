@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //고은찬 업데이트 테스트
         //cjddj
+        //ㅔㅔㅔㅔㅔㅔ
     }
 }
