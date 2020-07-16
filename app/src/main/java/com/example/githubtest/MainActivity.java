@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         //version control이 안보이는 사람들은 Help - findaction - version control 검색 > open
 
         //동준 수정.
+        //김청아 수정
     }
 
     @Override
